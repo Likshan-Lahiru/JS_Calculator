@@ -1,0 +1,27 @@
+body{
+    overflow: hidden;
+}
+.full-container{
+    width: 40rem;
+    height: 40rem;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+input{
+    color: black;
+}
+.container{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+
+}
+.calculator-main{
+    width: 20rem;
+    height: 40rem;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding: 10rem 10rem 10rem;
+
+
+}

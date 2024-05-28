@@ -7,8 +7,8 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <link rel="stylesheet" href="style/style.css">
-    <link rel="stylesheet" href="style/back.css">
-    <link rel="" href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/499416/TweenLite.min.js">
+    <!--<link rel="stylesheet" href="style/back.css">-->
+    <link rel="stylesheet" href="style/normalize.css">
 
 </head>
 <body>
@@ -17,12 +17,45 @@
     <div class="line"></div>
     <div class="line"></div>
 </div>
-<section id="main-section" class="main-section">
-    <div id="full-container" class="full-container">
-
+<section class="container">
+    <div class="calculator-main">
+        <form>
+            <div class="display">
+                <input class="text-input" type="text" name="display" id="final-output">
+            </div>
+            <div>
+                <input  class="button-input" type="button" value="AC"  id="btn-1">
+                <input  class="button-input" type="button" value="/" id="btn-3" >
+            </div>
+            <div>
+                <input  class="button-input" type="button" value="7" id="btn-4">
+                <input  class="button-input" type="button" value="8" id="btn-5">
+                <input  class="button-input" type="button" value="9" id="btn-6">
+                <input  class="button-input" type="button" value="*" id="btn-7" >
+            </div>
+            <div>
+                <input  class="button-input" type="button" value="4" id="btn-8">
+                <input  class="button-input" type="button" value="5" id="btn-9">
+                <input  class="button-input" type="button" value="6" id="btn-10">
+                <input  class="button-input" type="button" value="-" id="btn-11" >
+            </div>
+            <div>
+                <input  class="button-input" type="button" value="1" id="btn-12">
+                <input  class="button-input" type="button" value="2" id="btn-13">
+                <input  class="button-input" type="button" value="3" id="btn-14">
+                <input  class="button-input" type="button" value="+" id="btn-15" >
+            </div>
+            <div>
+                <input  class="button-input" type="button" value="00" id="btn-16">
+                <input  class="button-input" type="button" value="0" id="btn-17">
+                <input  class="button-input" type="button" value="." id="btn-18">
+                <input  class="button-input" type="button" value="=" id="btn-19" >
+            </div>
+        </form>
     </div>
-
 </section>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
 <script src="script/js.js"></script>
 </body>
 </html>
