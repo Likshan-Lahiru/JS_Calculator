@@ -18,6 +18,15 @@ body {
     overflow: hidden;
 }
 
+/*.lines {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    margin: auto;
+    width: 90vw;
+}*/
 
 .line {
     position: absolute;
