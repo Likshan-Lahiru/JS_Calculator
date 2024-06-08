@@ -1,4 +1,6 @@
 **JavaScript Calculator**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 This project is a simple yet powerful calculator built using HTML, CSS, and JavaScript. The calculator performs basic arithmetic operations and provides a user-friendly interface with smooth animations.
 
