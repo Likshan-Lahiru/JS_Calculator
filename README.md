@@ -2,10 +2,12 @@
 <img src="https://i.pinimg.com/originals/50/da/8c/50da8c44ba216bd8d5c20992bc8ce939.gif">
 
 
+
 This project is a simple yet powerful calculator built using HTML, CSS, and JavaScript. The calculator performs basic arithmetic operations and provides a user-friendly interface with smooth animations.
 
 
 **Features:**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Basic Arithmetic Operations: Addition, subtraction, multiplication, and division.
 
@@ -18,6 +20,7 @@ Clean UI: Intuitive and visually appealing design.
 
 
 **How to Use**
+
 
 Clone the repository:
 
