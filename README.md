@@ -1,7 +1,4 @@
 # JavaScript Calculator
-<img src="https://i.pinimg.com/originals/50/da/8c/50da8c44ba216bd8d5c20992bc8ce939.gif">
-
-
 
 This project is a simple yet powerful calculator built using HTML, CSS, and JavaScript. The calculator performs basic arithmetic operations and provides a user-friendly interface with smooth animations.
 
@@ -40,3 +37,5 @@ Technologies Used
 HTML5: For the structure and layout.
 CSS3: For styling and animations.
 JavaScript: For the calculator logic.
+
+<img src="https://i.pinimg.com/originals/50/da/8c/50da8c44ba216bd8d5c20992bc8ce939.gif">
