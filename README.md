@@ -6,18 +6,27 @@ This project is a simple yet powerful calculator built using HTML, CSS, and Java
 **Features:**
 
 Basic Arithmetic Operations: Addition, subtraction, multiplication, and division.
+
 Responsive Design: Adapts to various screen sizes for optimal usability.
+
 Smooth Animations: Enhanced user experience with CSS animations.
+
 Clean UI: Intuitive and visually appealing design.
 
 
 
 **How to Use**
+
 Clone the repository:
+
 bash
+
 Copy code
-git clone https://github.com/yourusername/javascript-calculator.git
+
+
+
 Open index.html in your browser:
+
 bash
 Copy code
 cd javascript-calculator
