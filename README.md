@@ -7,25 +7,15 @@ This project is a simple yet powerful calculator built using HTML, CSS, and Java
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Basic Arithmetic Operations: Addition, subtraction, multiplication, and division.
-
 Responsive Design: Adapts to various screen sizes for optimal usability.
-
 Smooth Animations: Enhanced user experience with CSS animations.
-
 Clean UI: Intuitive and visually appealing design.
-
-
 
 **How to Use**
 
-
 Clone the repository:
-
 bash
-
 Copy code
-
-
 
 Open index.html in your browser:
 
