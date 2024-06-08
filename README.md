@@ -1,5 +1,5 @@
 **JavaScript Calculator**
-<img src="https://cdn.dribbble.com/users/470545/screenshots/3471475/media/8586e7293a5397c9ad2692f44a3321a2.gif">
+<img src="https://i.pinimg.com/originals/50/da/8c/50da8c44ba216bd8d5c20992bc8ce939.gif">
 
 
 This project is a simple yet powerful calculator built using HTML, CSS, and JavaScript. The calculator performs basic arithmetic operations and provides a user-friendly interface with smooth animations.
